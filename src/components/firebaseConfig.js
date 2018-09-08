@@ -5,4 +5,4 @@ export default{
     projectId: "vueapp-7b20a",
     storageBucket: "vueapp-7b20a.appspot.com",
     messagingSenderId: "604253441973"
-  };
+}

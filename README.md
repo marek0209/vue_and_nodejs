@@ -1,6 +1,6 @@
 # vueapp_devcourse
 
-> \"Testing Vue app\"
+> Testing Vue app
 
 ## Build Setup
 
